@@ -1,5 +1,5 @@
 var recipe = {}
 
 function updateObjectWithKeyAndValue(object, key, value){
-  return recipe
+  return recipe{} = "prop1"
 }
